@@ -27,6 +27,7 @@
     "purescript-catenable-lists": "^3.0.0",
     "purescript-exists": "^2.0.0",
     "purescript-inject": "^3.0.0",
+    "purescript-prelude": "^2.4.0",
     "purescript-transformers": "^2.0.0",
     "purescript-unsafe-coerce": "^2.0.0"
   },
